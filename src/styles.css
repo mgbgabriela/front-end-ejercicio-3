@@ -1,0 +1,94 @@
+.encabezado {
+  display: flex;
+  background: rgb(221, 219, 219);
+  margin: auto;
+  justify-conten: space-evenly;
+  flex-flow: row wrap;
+}
+h1 {
+  color: black;
+  text-aling: left;
+  fond-size: 10px;
+}
+.menu1 {
+  background: rgb(47, 194, 111);
+  height: 20px;
+  width: 40%;
+  color: white;
+}
+
+.logo {
+  background: blue;
+  color: white;
+  height: 20px;
+  width: 20%;
+}
+
+.menu2 {
+  background: sienna;
+  height: 20px;
+  width: 60%;
+  color: white;
+}
+
+.cuerpo {
+  margin-top: 30px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  height: 450px;
+}
+
+.izquierda {
+  background: rgb(8, 8, 8);
+  height: 200px;
+  width: 25%;
+  color: white;
+}
+
+.centro {
+  background: rgb(36, 168, 91);
+  height: 200px;
+  width: 25%;
+  color: white;
+}
+.derecha {
+  background: rgb(229, 233, 13);
+  height: 200px;
+  width: 25%;
+  color: white;
+}
+
+.izquierda2 {
+  background: rgb(6, 212, 57);
+  height: 200px;
+  width: 60%;
+  color: white;
+}
+.derecha2 {
+  background: rgb(214, 36, 36);
+  height: 200px;
+  width: 25%;
+  color: white;
+}
+
+.pie {
+  display: flex;
+  background: cornflowerblue;
+  justify-content: flex-end;
+}
+.elemento {
+  background: darkblue;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 20px;
+  margin-left: auto;
+  color: white;
+}
+
+h2 {
+  color: rgb(34, 22, 22);
+  text-align: left;
+}
+
+/* NO PUDE UBICAR CORRECTAMENTE LOS TEMS DEL ENCABEZADO*/
